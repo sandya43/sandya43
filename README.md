@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m looking for Job opportunities in Bangalore
+- 🔭 I’m looking for a Job opportunities in Bangalore
   
 - 🌱 I’m currently learning **Python,R**
 
