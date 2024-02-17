@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m looking for a Job opportunities in Bangalore
+  
+
+- 💼 Currently seeking opportunities to kickstart my career in the field of data analysis. I am open to entry-level positions, and projects where I can continue to learn and grow while making meaningful contributions.
   
 - 🌱 I’m currently learning **Python,R**
 
 - 💬 Ask me about **Data analysis** ,**Data Cleaning**,**Data Modelling**,**Data Visualization**, **PowerBi**,**Tableau**
+
+- 🌐 Feel free to explore my GitHub repositories to see examples of my work and projects I have undertaken.
 
 - 📫 How to reach me **sandyagowda43@gmail.com**
 
